@@ -1,0 +1,30 @@
+{
+  "name": "bookend",
+  "version": "1.0.0",
+  "description": "Simple AngularJs app for book end",
+  "main": "myserver.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinkuk1993/BookEnd.git"
+  },
+  "keywords": [
+    "simple",
+    "angularjs",
+    "bookend"
+  ],
+  "engine": "node >= 0.4.1",
+  "author": "Rinku Kumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinkuk1993/BookEnd/issues"
+  },
+  "homepage": "https://github.com/Rinkuk1993/BookEnd#readme"
+}
